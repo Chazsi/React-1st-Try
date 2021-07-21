@@ -8,7 +8,7 @@ import PagePortfolio from "./pages/pageportfolio";
 
 const App = () => {
   return (
-    <div>
+    <div className="container">
       <BrowserRouter>
       <Header />
       <Switch>
